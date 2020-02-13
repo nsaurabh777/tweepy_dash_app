@@ -1,0 +1,1078 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"MODE",
+				"MODEL_PATH\tabc"
+			],
+			[
+				"X",
+				"XGBOOST\tabc"
+			],
+			[
+				"Ligt",
+				"LightGBM\tabc"
+			],
+			[
+				"submi",
+				"submissions\tabc"
+			],
+			[
+				"submiss",
+				"submission_date\tabc"
+			],
+			[
+				"req",
+				"req_obj\tabc"
+			],
+			[
+				"predic",
+				"predicted_value"
+			],
+			[
+				"pred",
+				"predictions〔variable〕"
+			],
+			[
+				"load",
+				"load_pickle_model\t(utils.py)"
+			],
+			[
+				"dep",
+				"dependent_variable\tabc"
+			],
+			[
+				"inde",
+				"independent_variable\tabc"
+			],
+			[
+				"util",
+				"utilities\t(kronus_utils.py)"
+			],
+			[
+				"valida",
+				"validate_req_obj\t(views.py)"
+			],
+			[
+				"imputa",
+				"imputazione_utils\tabc"
+			],
+			[
+				"imp",
+				"imputazione_utils\t(views.py)"
+			],
+			[
+				"Prod",
+				"ProductPurchaseCost\tabc"
+			],
+			[
+				"get_co",
+				"get_config\t(databases.py)"
+			],
+			[
+				"pass",
+				"password\tabc"
+			],
+			[
+				"data",
+				"datascience\tabc"
+			],
+			[
+				"impu",
+				"imputazione_utils\tabc"
+			],
+			[
+				"tas",
+				"task_response\tabc"
+			],
+			[
+				"uniq",
+				"unique_field\tabc"
+			],
+			[
+				"save",
+				"save_model_summary\t(ts_models.py)"
+			],
+			[
+				"kronus",
+				"kronus_utils\t(ts_models.py)"
+			],
+			[
+				"uti",
+				"utilities\t(ts_models.py)"
+			],
+			[
+				"file_",
+				"file_obj\tabc"
+			],
+			[
+				"plot",
+				"plot_diagnostics\tabc"
+			],
+			[
+				"plo",
+				"plot_diagnostics\tabc"
+			],
+			[
+				"index",
+				"index_of_fc\tabc"
+			],
+			[
+				"exog",
+				"exogenous\tabc"
+			],
+			[
+				"bes",
+				"best_model\tabc"
+			],
+			[
+				"pi",
+				"pickled_model\t(constants.py)"
+			],
+			[
+				"n_",
+				"n_steps_out\tabc"
+			],
+			[
+				"spli",
+				"split_sequence\tabc"
+			],
+			[
+				"N_S",
+				"N_STEPS_OUT\tabc"
+			],
+			[
+				"spl",
+				"split_sequence\tabc"
+			],
+			[
+				"model_",
+				"model_function\tabc"
+			],
+			[
+				"excep",
+				"except\tabc"
+			],
+			[
+				"retu",
+				"return\tabc"
+			],
+			[
+				"n",
+				"n_steps_out\tabc"
+			],
+			[
+				"inp",
+				"input_shape"
+			],
+			[
+				"MODEL",
+				"MODEL_LIST\tabc"
+			],
+			[
+				"scalin",
+				"scaling_process\tabc"
+			],
+			[
+				"features",
+				"features_considered\tabc"
+			],
+			[
+				"fore",
+				"forecasted_indexes\tabc"
+			],
+			[
+				"forec",
+				"forecasted_indexes\tabc"
+			],
+			[
+				"date",
+				"date_range_indexes〔function〕"
+			],
+			[
+				"obj",
+				"objects\t(views.py)"
+			],
+			[
+				"Predic",
+				"PredictorModel\t(models.py)"
+			],
+			[
+				"AUTO_",
+				"AUTO_ARIMA\tabc"
+			],
+			[
+				"N_STEP",
+				"N_STEPS_OUT\tabc"
+			],
+			[
+				"reset",
+				"reset_index\tabc"
+			],
+			[
+				"peri",
+				"periodicity\tabc"
+			],
+			[
+				"activ",
+				"activation='relu\tabc"
+			],
+			[
+				"re",
+				"relu\tabc"
+			],
+			[
+				"DIR",
+				"DIRECTORY\tabc"
+			],
+			[
+				"exogenous",
+				"exogenous_variables\tabc"
+			],
+			[
+				"Or",
+				"OrganizationOutletLocationID\tabc"
+			],
+			[
+				"Entity",
+				"EntityID"
+			],
+			[
+				"param",
+				"parameters\tabc"
+			],
+			[
+				"exo",
+				"exogenous_variables\t(kronus_utils.py)"
+			],
+			[
+				"except",
+				"exception\t(utils.py)"
+			],
+			[
+				"Updat",
+				"UpdatedDate\t(models.py)"
+			],
+			[
+				"Create",
+				"CreatedDate\t(models.py)"
+			],
+			[
+				"Ar",
+				"Archived\t(models.py)"
+			],
+			[
+				"read",
+				"read_only\tabc"
+			],
+			[
+				"Applica",
+				"ApplicationSerializer\tabc"
+			],
+			[
+				"Data",
+				"DataSubCategory\t(models.py)"
+			],
+			[
+				"__",
+				"__all__\tabc"
+			],
+			[
+				"ML",
+				"MLTaskID\t(models.py)"
+			],
+			[
+				"ml_t",
+				"ml_task\t(models.py)"
+			],
+			[
+				"Req",
+				"RequestBody\t(models.py)"
+			],
+			[
+				"Res",
+				"Response〔module〕"
+			],
+			[
+				"Appl",
+				"ApplicationID\t(models.py)"
+			],
+			[
+				"custo",
+				"custom_model\tabc"
+			],
+			[
+				"n_ste",
+				"n_steps_out\tabc"
+			],
+			[
+				"differe",
+				"differencing_factor_d"
+			],
+			[
+				"outpu",
+				"output_data_path\tabc"
+			],
+			[
+				"AUTO",
+				"AUTO_RESTART_CELERY\t(config.sh)"
+			],
+			[
+				"make",
+				"makedirs〔function〕"
+			],
+			[
+				"DataC",
+				"DataCategoryID\t(models.py)"
+			],
+			[
+				"BAS",
+				"BASE_DIR\t(settings.py)"
+			],
+			[
+				"conf_",
+				"conf_<env>.py\tabc"
+			],
+			[
+				"s3_",
+				"s3_files\tabc"
+			],
+			[
+				"s3_f",
+				"s3_files\t(utils.py)"
+			],
+			[
+				"upl",
+				"uploadFolderToS3〔function〕"
+			],
+			[
+				"ex",
+				"extension\tabc"
+			],
+			[
+				"uploa",
+				"uploadFileToS3\t(utils.py)"
+			],
+			[
+				"API_",
+				"API_ENV\t(settings.py)"
+			],
+			[
+				"AWS_",
+				"AWS_CONFIGS\t(conf_base.py)"
+			],
+			[
+				"respo",
+				"response_dict\tabc"
+			],
+			[
+				"ml_",
+				"ml_task_dict"
+			],
+			[
+				"futu",
+				"future_forecasts\tabc"
+			],
+			[
+				"FUR",
+				"FUTURE_FORECASTS〔variable〕"
+			],
+			[
+				"n_st",
+				"n_steps"
+			],
+			[
+				"prediction_",
+				"prediction_viz\tabc"
+			],
+			[
+				"batch",
+				"batch_size\tabc"
+			],
+			[
+				"nor",
+				"normalize_scale_data\tabc"
+			],
+			[
+				"env",
+				"environment\tabc"
+			],
+			[
+				"sav",
+				"save_lstm_plot"
+			],
+			[
+				"fig",
+				"figsize\tabc"
+			],
+			[
+				"LSTM",
+				"LSTM_CONFIGS\tabc"
+			],
+			[
+				"kronu",
+				"kronus_utils\tabc"
+			],
+			[
+				"per",
+				"periodicity\t(constants.py)"
+			],
+			[
+				"get",
+				"get_resample_value〔function〕"
+			],
+			[
+				"ge",
+				"get_resample_value〔function〕"
+			],
+			[
+				"lowe",
+				"lower_series\tabc"
+			],
+			[
+				"sa",
+				"savefig\t(ts_models.py)"
+			],
+			[
+				"Pred",
+				"PredictorModelID\t(models.py)"
+			],
+			[
+				"AURO",
+				"AUTO_ARIMA_CONFIGS\t(constants.py)"
+			],
+			[
+				"max_",
+				"max_p\t(constants.py)"
+			],
+			[
+				"pmd",
+				"pmdarima_model\t(ts_models.py)"
+			],
+			[
+				"df",
+				"df_features\tabc"
+			],
+			[
+				"kro",
+				"kronus_utils\tabc"
+			],
+			[
+				"lag",
+				"lag_pacf\tabc"
+			],
+			[
+				"valu",
+				"value\t(kronus_utils.py)"
+			],
+			[
+				"col",
+				"columns\tabc"
+			],
+			[
+				"ret",
+				"return_response\t(kronus_utils.py)"
+			],
+			[
+				"Respo",
+				"ResponseBody\t(models.py)"
+			],
+			[
+				"set",
+				"set_index\tabc"
+			],
+			[
+				"Dicke",
+				"Dickey-Fuller\tabc"
+			],
+			[
+				"FIG",
+				"FIG_SIZE\t(tasks.py)"
+			],
+			[
+				"exce",
+				"except\t(views.py)"
+			],
+			[
+				"ml_tas",
+				"ml_task_obj\tabc"
+			],
+			[
+				"Predi",
+				"PredictorModel"
+			],
+			[
+				"DataS",
+				"DataSubCategoryID\t(models.py)"
+			],
+			[
+				"exc",
+				"exception\tabc"
+			],
+			[
+				"va",
+				"validate_req_obj〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sq",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"sql",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"mysq",
+				"DataConverter: to MySQL"
+			],
+			[
+				"conver",
+				"DataConverter: to CSV"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"scheme",
+				"UI: Select Theme"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pre",
+				"Pretty JSON: Validate"
+			],
+			[
+				"prett",
+				"Pretty JSON: Validate"
+			],
+			[
+				"jaon",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"pyth",
+				"CodeFormatter: Format as Python Syntax"
+			],
+			[
+				"mar",
+				"DataConverter: to Markdown (Github-flavored)"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"packages",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ininstall",
+				"Colorsublime: Uninstall Theme"
+			],
+			[
+				"sublime merge",
+				"Sublime Merge: File History"
+			],
+			[
+				"sublimemerge",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"python",
+				"CodeFormatter: Format as Python Syntax"
+			],
+			[
+				"consol",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"reload",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Toggle Highlights"
+			],
+			[
+				"sublimeli",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"sublimelin",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"slq",
+				"SQL Beautifier: Format Current SQL File"
+			],
+			[
+				"mrakd",
+				"DataConverter: to Markdown (Github-flavored)"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"pylint",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"lsit",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"colors",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Enable Inline Tooltips"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 131.0,
+		"history":
+		[
+			"sda",
+			"import datetime"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/saurabh/Documents/prognosis/src/requirements/base.txt",
+		"/Users/saurabh/Documents/prognosis/bash_scripts/start_prognosis.sh",
+		"/Users/saurabh/Documents/prognosis/bash_scripts/start_celery.sh",
+		"/Users/saurabh/Documents/prognosis/src/requirements/development.txt",
+		"/Users/saurabh/Documents/prognosis/src/imputazione/ml/data/v1-ProductPurchaseCost/central_tendency.csv",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/config/conf_SN.py",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/utilities/kronus_utils.py",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/config/conf_base.py",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/settings.py",
+		"/Users/saurabh/Documents/prognosis/src/imputazione/views.py",
+		"/Users/saurabh/Documents/prognosis/src/imputazione/tasks.py",
+		"/Users/saurabh/Documents/prognosis/src/kronus/tasks.py",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/constants/constants.py",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/urls.py",
+		"/Users/saurabh/Documents/prognosis/src/imputazione/urls.py",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/utilities/kronus_viz.py",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/utilities/ml/kronus_pmdarima.py",
+		"/Users/saurabh/Documents/prognosis/src/kronus/views.py",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/utilities/ts_models.py",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/utilities/utils.py",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/utilities/ml/kronus_lstm.py",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/utilities/databases.py",
+		"/Users/saurabh/Documents/prognosis/src/kronus/tasks.ipynb",
+		"/Users/saurabh/Documents/prognosis/src/kronus/.ipynb_checkpoints/tasks-checkpoint.ipynb",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/utilities/unused_codebase/arima.py",
+		"/Users/saurabh/Documents/prognosis/prognosis.sublime-project",
+		"/Users/saurabh/Documents/prognosis/venv/lib/python3.6/site-packages/pmdarima/base.py",
+		"/Users/saurabh/Documents/prognosis/venv/lib/python3.6/site-packages/pmdarima/arima/tests/test_arima.py",
+		"/Users/saurabh/Documents/prognosis/venv/lib/python3.6/abc.py",
+		"/Users/saurabh/Downloads/inventory_order_mismatch_op_europe.sql",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/utilities/unused_codebase/ts_models.unused.py",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/utilities/unused_codebase/tf_site_tutorial.py",
+		"/Users/saurabh/Documents/prognosis/README.md",
+		"/Users/saurabh/Documents/prognosis/.gitignore",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/celery.py",
+		"/Users/saurabh/Documents/prognosis/src/kronus/models.py",
+		"/Users/saurabh/Documents/prognosis/venv/lib/python3.6/site-packages/keras/layers/core.py",
+		"/Users/saurabh/Documents/prognosis/src/data/13257ee5-4fb4-400e-9a5d-53cd1f323960/LSTM/autoencoders_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/4c8f78d6-626d-44a3-af8f-20aa6233a76e/LSTM/autoencoders_lstm_model/model_summary.txt",
+		"/Users/saurabh/Documents/prognosis/src/data/d536ba9b-ae1a-4b2e-a815-471d86925277/LSTM/autoencoders_lstm_model/autoencoders_lstm_model.png",
+		"/Users/saurabh/Documents/prognosis/src/data/3b78e20d-93e5-4069-8759-e50e3ddd8258/LSTM/autoencoders_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/3b78e20d-93e5-4069-8759-e50e3ddd8258/LSTM/autoencoders_lstm_model/10000_epochs",
+		"/Users/saurabh/Documents/prognosis/src/data/7b855b7f-19bf-45bd-8bf6-8466324695a2/LSTM/autoencoders_lstm_model/best_model.h5",
+		"/Users/saurabh/Documents/prognosis/src/data/40021fec-8262-49b1-88c2-f9576745166d/LSTM/autoencoders_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/264568b8-da87-4524-99db-09a211c769d6/LSTM/autoencoders_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/utilities/unused_codebase/cnn_lstm.py",
+		"/Users/saurabh/Documents/prognosis/bash_scripts/migrations.sh",
+		"/Users/saurabh/Documents/prognosis/bash_scripts/config.sh",
+		"/Users/saurabh/Documents/prognosis/bash_scripts/conf.sh",
+		"/Users/saurabh/Documents/prognosis/src/data/a104da70-c6ed-4e03-9530-080c439246f8/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/utilities/exceptions.py",
+		"/Users/saurabh/Documents/prognosis/src/kronus/urls.py",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/config/conf_production.py",
+		"/Users/saurabh/Documents/prognosis/src/data/78d1527c-b722-486b-8537-8f87bf460f9b/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/5249230e-96b9-4587-81ae-1a532fe24d07/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/5be1308f-4d6a-4f0b-b8ac-b3db3ecd332b/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/1d9c6f63-d078-4571-8eef-742b3e618367/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/3216d119-0fa7-4ec6-96a0-993ecd489e2d/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/8d81fe1d-c68e-4bb8-9a9b-1024a2be8397/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/9ca2a0d3-fc8e-426f-9787-547fcbc4113e/LSTM/custom_lstm_model/best_model.h5",
+		"/Users/saurabh/Documents/prognosis/src/data/9ca2a0d3-fc8e-426f-9787-547fcbc4113e/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/7fab713f-b139-4192-b858-ec3961bd53af/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/5fd01701-d699-42fe-9041-3455dc493ad0/patience100",
+		"/Users/saurabh/Documents/prognosis/src/data/5edef27f-ce6b-4a10-80cd-91346c5f1782/patience50",
+		"/Users/saurabh/Documents/prognosis/src/data/ada02d3b-a418-49ef-a744-a14efb2a5147/patience200",
+		"/Users/saurabh/Documents/prognosis/src/data/5edef27f-ce6b-4a10-80cd-91346c5f1782/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/7c492ba9-497a-4bd4-a432-6a8400ddd880/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/ada02d3b-a418-49ef-a744-a14efb2a5147/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/10711c9d-bc8b-4c78-9a16-0ba751e2c7a3/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/5a62d3b7-86de-40dd-bfbf-cb26c20969aa/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/6931e227-5c52-4b0a-bb4e-fc6d78b036cf/LSTM/custom_lstm_model/best_model.h5",
+		"/Users/saurabh/Documents/prognosis/src/data/6931e227-5c52-4b0a-bb4e-fc6d78b036cf/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/3a729ed6-19e6-4d83-a2ed-62dfdf0fd048/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/3580abf0-ed15-4cce-a694-c1e443a32b96/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/45278902-81c7-4c74-8f74-940c9424be5c/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/f4d616de-db5e-44fd-ad50-065163ea3ed8/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/3658c2a5-7fcc-4457-9a39-1f5cbdea8d1d/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/2ad04e57-ad70-4408-aa84-af661b7da5ae/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/8d8e180a-0bfe-4d1d-a2d7-c34ba0337afd/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/59d75bc4-ee7d-4b0c-81f7-0a5c99db7ad2/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/1d98e0a8-6fd8-4c96-887b-7ac722f5fccc/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/36e68ae8-d2e7-4058-9170-a42a199cc610/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/6eb7ca12-2d3d-49a4-9bd5-46b6251c463b/LSTM/custom_lstm_model/X.txt",
+		"/Users/saurabh/Documents/prognosis/src/data/6eb7ca12-2d3d-49a4-9bd5-46b6251c463b/LSTM/custom_lstm_model/y.txt",
+		"/Users/saurabh/Documents/prognosis/src/data/a5bc5243-c2ca-433e-9aaf-1cbdeef89e45/LSTM/custom_lstm_model/X.txt",
+		"/Users/saurabh/Documents/prognosis/src/data/a5bc5243-c2ca-433e-9aaf-1cbdeef89e45/LSTM/custom_lstm_model/y.txt",
+		"/Users/saurabh/Documents/prognosis/src/data/8b6eb4ca-60a0-4850-abce-c62e7d579372/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/d6c1c0a0-f160-4cea-9206-1580e03cba8d/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/kronus/serializers.py",
+		"/Users/saurabh/Documents/prognosis/src/data/3881fe68-5f24-45c0-b9e9-17f687d27485/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/21908c32-3371-4acb-a86d-494f931efb6c/LSTM/custom_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/81ee825f-5612-49ac-b527-baeb9f672f27/LSTM/vanilla_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/2169baaf-da3d-41ad-aeb8-0a419c4cf189/LSTM/multi_step_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/3685827f-652e-4331-b1d4-d75c03375569/LSTM/vanilla_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/1db42aa6-c31c-4f14-901c-207244566867/LSTM/vanilla_lstm_model/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/0f534e32-8095-4a33-8cd8-4de7a6e40e25/AUTO_ARIMA/adfuller_test_residual.xlsx",
+		"/Users/saurabh/Documents/prognosis/src/data/355817c2-679b-4c7f-84f4-9dc552f10f89/LSTM/multi_step_lstm_models/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/96400553-344b-4155-8d9c-8ba3174e374e/input_data.xlsx",
+		"/Users/saurabh/Documents/prognosis/src/data/96400553-344b-4155-8d9c-8ba3174e374e/LSTM/multi_step_lstm_models/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/config.sh",
+		"/Users/saurabh/Documents/prognosis/start_celery.sh",
+		"/Users/saurabh/Documents/prognosis/start_prognosis.sh",
+		"/Users/saurabh/Documents/prognosis/venv_activate.sh",
+		"/Users/saurabh/Documents/prognosis/src/data/8e2b1a09-b567-45c8-89ae-44632abde9e0/multi_step_lstm_models/csv_logger.log",
+		"/Users/saurabh/Documents/prognosis/src/data/d9dabc2d-80f2-4f9f-826b-34ecfa492fd8/multi_step_lstm_models.png",
+		"/Users/saurabh/Documents/prognosis/src/data/9987ca4b-1a80-46fc-9adf-d6b9d3ba4a1d/multi_step_lstm_models.png",
+		"/Users/saurabh/Documents/prognosis/src/data/8dcf3ff0-ef41-47a4-9d59-ee110fef9d6d/multi_step_lstm_models.png",
+		"/Users/saurabh/Documents/prognosis/src/tmp.csv",
+		"/Users/saurabh/Documents/prognosis/src/data/852e7eac-cf06-4b82-bf10-562155da5d07/stacked_lstm_model.png",
+		"/Users/saurabh/Documents/prognosis/src/data/254a0ee7-4258-460f-b0c9-1e4a98f676f3/vanilla_lstm_model.png",
+		"/Users/saurabh/Documents/prognosis/src/data/254a0ee7-4258-460f-b0c9-1e4a98f676f3/stacked_lstm_model.png",
+		"/Users/saurabh/Documents/prognosis/src/data/254a0ee7-4258-460f-b0c9-1e4a98f676f3/bidirectional_lstm_model.png",
+		"/Users/saurabh/Documents/prognosis/src/data/809767c0-f203-4ac0-86a6-9d1478c089ca/vanilla_lstm_model.png",
+		"/Users/saurabh/Documents/prognosis/src/data/809767c0-f203-4ac0-86a6-9d1478c089ca/stacked_lstm_model.png",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/constants/def create_dataset(dataset, window_size, H):",
+		"/Users/saurabh/Documents/prognosis/src/data/d9c4c6de-5c53-4198-b222-5e02a9e334ab/lstm_model.log",
+		"/Users/saurabh/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/saurabh/Documents/prognosis/src/tmp.png",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/__init__.py",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/views.py",
+		"/Users/saurabh/Documents/prognosis/venv/lib/python3.6/site-packages/rest_framework_simplejwt/views.py",
+		"/Users/saurabh/Documents/prognosis/venv/lib/python3.6/site-packages/djangorestframework_simplejwt-4.3.0.dist-info/METADATA",
+		"/Users/saurabh/Documents/prognosis/venv/lib/python3.6/site-packages/rest_framework_simplejwt/serializers.py",
+		"/Users/saurabh/Documents/prognosis/.gitkeep",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/config/config.json",
+		"/Users/saurabh/Personal/TimeSeries/Forecast/models.py",
+		"/Users/saurabh/Personal/machine_learning/openCV - Image Analysis/config/conf.py",
+		"/Users/saurabh/Documents/prognosis/src/prognosis/wsgi.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 97.0
+	},
+	"output.exec":
+	{
+		"height": 239.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "tweepy_dash_app.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ts_",
+				"src/prognosis/utilities/ts_models.py"
+			],
+			[
+				"gitign",
+				".gitignore"
+			],
+			[
+				"uti",
+				"src/reportsApi/utility/utilities.py"
+			],
+			[
+				"",
+				"src/reportsApi/utility/utilities.py"
+			],
+			[
+				"partsconsumption",
+				"src/partsConsumption/tasks.py"
+			],
+			[
+				"partsCons",
+				"src/partsConsumption/tasks.py"
+			],
+			[
+				"views",
+				"src/aggPartsConsumption/views.py"
+			],
+			[
+				"228",
+				"venv/lib/python3.6/site-packages/botocore/data/cloudfront/2016-01-28/paginators-1.json"
+			],
+			[
+				"tas",
+				"src/minimum_stock_limit/tasks.py"
+			],
+			[
+				"view",
+				"src/croma_call_dump/views.py"
+			],
+			[
+				"tasks.",
+				"src/pending_requests_supply/tasks.py"
+			],
+			[
+				"task.py",
+				"src/service/tasks.py"
+			],
+			[
+				"getdata",
+				"src/intransitShipment/getdata.py"
+			],
+			[
+				"exter",
+				"src/PartsWorkshop/utility/external-api.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 630.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 308.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
